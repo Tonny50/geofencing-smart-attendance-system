@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116190878266",
+    "project_id": "geofence-database-57f51",
+    "storage_bucket": "geofence-database-57f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116190878266:android:8a7b4a65f9e1fad805f303",
+        "android_client_info": {
+          "package_name": "com.example.smart_attendance_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxb8EyMjge1IC2EKJh_tVm7G4SBu58960"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
